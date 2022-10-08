@@ -89,7 +89,8 @@
       "moduleName": "Simple",
       "declAttributes": [
         "HasInitialValue",
-        "HasStorage"
+        "HasStorage",
+        "RawDocComment"
       ],
       "hasStorage": true
     },
